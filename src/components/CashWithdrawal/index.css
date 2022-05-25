@@ -1,0 +1,38 @@
+.bg_container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+}
+.min_container {
+  display: flex;
+  flex-direction: column;
+  background-color: #150b3e;
+  height: 500px;
+  width: 500px;
+  align-self: center;
+  padding: 30px;
+}
+.profileName {
+  background-color: #c7d2fe;
+  height: 70px;
+  width: 70px;
+  text-align: center;
+  border-radius: 40px;
+  margin: 20px;
+}
+.profile_letter {
+  color: #7c3aed;
+  text-align: center;
+}
+.profileNameContainer {
+  display: flex;
+  align-items: center;
+}
+.profileNameContainer {
+  color: #ffffff;
+}
+.initialAmount {
+  display: flex;
+  justify-content: space-between;
+}
